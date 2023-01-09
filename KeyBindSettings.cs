@@ -4,6 +4,7 @@ using UnityModManagerNet;
 namespace FreeAngleHelper
 {
     //sadfhasdfjkasdfjasdfjkl;asdfjlasjdfjkasdfjkasdf
+    
     public class ShortCut
     {
         [Horizontal]
@@ -39,6 +40,6 @@ namespace FreeAngleHelper
     {
         [Header("단축키")]
         [Draw("GUI 단축키")] public ShortCut sc = new ShortCut();
-        [Draw("생성 단축키")] public Generate g = new Generate();
+        [Draw("생성 asdfjkl;awfjikpasfdkjlasfdjasfdasdfasfdasdfasfdasdf")] public Generate g = new Generate();
     }
 }
